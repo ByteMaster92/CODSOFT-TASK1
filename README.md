@@ -12,7 +12,7 @@ Date: 15 June to 15 July 2024
 
 Project: Mobile App Signup Flow
 
-Objecive: To createan account and signing up for an
+Objecive: To create an account and signing up for an
 app. The goal of a good signup flow is to make it easy and quick for users to sign up, while
 also collecting the necessary information from them
 
